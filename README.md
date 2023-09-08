@@ -4,6 +4,10 @@
 
 A micro frontend for browsing restaurants.
 
+# Dependencies
+
+Using [volta](https://volta.sh/) will ensure that you get a compatible version of node and yarn.
+
 # Getting started
 
 1. Clone the repo
